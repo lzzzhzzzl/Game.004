@@ -1,3 +1,8 @@
+# 控制
+<font color=Darkorange>W A S D  </font> 移动  
+<font color=Darkorange>E  </font> 打开背包  
+<font color=Darkorange>T </font>  加速时间  
+<font color=Darkorange> ESC </font>  暂停菜单  
 # 总结
 这个游戏是我的毕业设计，也算是我这大学期间所学习的游戏开发知识的汇总，除了这款游戏之外，我在大三开始，制作过多人的对战游戏和结合教育教学的小游戏，但是不成体系，代码写的也不是很好，就不放在这里了。
 ## 小结
